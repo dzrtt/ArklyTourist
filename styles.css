@@ -1,0 +1,11 @@
+h1 {color: green; font-family: "Comic Sans MS", cursive, sans-serif;}
+h2 {color: darkred;}
+td,th {color: black; font-weight: bold;}
+p {list-style-type: square;}
+.special {color: red;}
+.f {color: green;}
+a {color: green;}
+a:visited {color: darkred;}
+a:hover {text-decoration: none;}
+p {color: yellow; background-color: black;margin: 50px;}
+
